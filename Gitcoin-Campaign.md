@@ -64,13 +64,13 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 - What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following objectives and projected outcomes.
 
-**LNATS domain and ENS for community services
+*LNATS domain and ENS for community services*
 
-Marketing the project to achieve a wider audience. This would be done across the web3/crypto market.
+*Marketing the project to achieve a wider audience. This would be done across the web3/crypto market.*
 
-Developing and designing graphics package for the domain and ENS.
+*Developing and designing graphics package for the domain and ENS.*
 
-Building a research commission for weekly updates on market behaviour around Libra, CBDCs and Stable Crypto Tokens.
+*Building a research commission for weekly updates on market behaviour around Libra, CBDCs and Stable Crypto Tokens.*
 
 - Are you seeking alliances and talent mentors: Yes, being able to engage with other communities and projects would be very beneficial to the growth around the projects legitimacy.
 
