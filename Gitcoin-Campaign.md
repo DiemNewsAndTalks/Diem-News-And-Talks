@@ -1,4 +1,4 @@
-#BitFwd GitCoin Campaign (May - July2020).
+# BitFwd GitCoin Campaign (May - July2020).
 
 Quadrandtic Funding and Crowd Based Financing has the potential to change Venture Capital and investment systems as we know it.
 
