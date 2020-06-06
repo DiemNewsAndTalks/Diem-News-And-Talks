@@ -32,7 +32,7 @@ The following parts of the paper will now provide the reader with an overview of
 
 ## 2: Project Proposal. 
 
-
+Explain the project in details of a proposed venture to potentail stakeholders, alliences, partnerships and the general base of expected users...
 
 ## 3: Libra News and Talks.
 
@@ -55,6 +55,8 @@ With the above key features, Libra News And Talks is able to exchange services a
 
 
 ## 4: Operational Planning.
+
+Needs to include a roadmap, timeline, and the dynamics of how to work an effencient execution model the proposed business, goals and objectives....
 
 ## 5: Conlusion. 
 
