@@ -86,7 +86,26 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 ###### Campaign Participants.
 
-Each of them with their own projects and unique backgrounds. List here: • Nuts finance, • SheDAO, • DAOism, ......
+Each of them with their own projects and unique backgrounds. List here - 
+
+- SheDAO
+- StudyDeFi
+- BitFwd 
+- NUTS Finance
+- The Pop-up 
+- Organic Mechanic
+- Litenry
+- Aleph im
+- SeedBed
+- The Genesis DAO
+- Libra News And Talks
+- DAOism
+- Extereme DAO
+- Alice 
+- Voyager
+- KodaDot
+- LongDAO
+
 
 By offering each other the opportunity to ask questions and relate to topics through conference calls and internet applications, they have supported and allowed each others projects to grow over the course of the Bitfwd campaign by iterating on opinions expressed during group talks and campaign webinars.
 
