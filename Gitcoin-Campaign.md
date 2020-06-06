@@ -113,17 +113,27 @@ From a perspective of a project that has engaged in the program, we have found t
 
 ###### F & Q's Libra News And Talks.
 
-Some of the most Frequently Asked Questions about the Libra News and Talks project so far, have been:
+Some of the most Frequently Asked Questions about the Libra News and Talks project so far, have been - 
 
 What is the main subject of focus other than The Libra Blockchain?
 
+*Answer......*
+
 Are you going to focus on general Cryptocurrencies aswell as the 3 pre-stated assets from economic perspective?
+
+*Answer......*
 
 What do you see being the most valuable part of the current market you are going to be able to target as a online news and publication service?
 
+*Answer.....*
+
 Focusing on the global economy as a whole allows the platform to cover a wide range of different topics, how do you plan to manage the workload?
 
+*Answer......*
+
 How are you going to distribute publications, manifests and market reports?
+
+*Answer.....*
 
 Other than weekly updates and transcripts (from the webinar sessions) each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
 
