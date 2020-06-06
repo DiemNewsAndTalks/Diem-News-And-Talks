@@ -30,7 +30,11 @@ As a project that will be offering online services to its community and users, L
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, along with the necessary pieces of information and documents for Libra News and Talks to become a functional and economic industry model.
 
-## 2: Libra News and Talks.
+## 2: Project Proposal. 
+
+
+
+## 3: Libra News and Talks.
 
 Over the course of the last decade, technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with them un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world at a fraction of the cost of traditional financial service providers like Western Union, IBS (International Bank of Settlements) and various other international payment service providers.
 
@@ -48,3 +52,10 @@ The project is being developed to take to market with the following key features
 • Technical Support. • Online Forum and Messenger Chatroom.
 
 With the above key features, Libra News And Talks is able to exchange services and extend its products to other communities around, forming partnerships and alliances along the way. Aiming to educate and inform it’s user base, the experience of interacting and using the Libra News And Talks platform is something anyone will enjoy and gain new learnings from. Focusing on decentralized finance and Cryptocurrencies, its main objective is to become an educational news hub for research, and the development of Facebook's Libra, Central Bank Digital Currencies and Stable Crypto Token initiatives.
+
+
+## 4: Operational Planning.
+
+## 5: Conlusion. 
+
+## 6: References. 
