@@ -53,14 +53,23 @@ Focusing on The Libra Blockchain specifically, Libra News and Talks is one of th
 The project is being developed to take to market with the following key features:
 
 •	Social Media Profiles. 
+
 •	Weekly Newsletters. 
+
 •	Monthly and Quarterly Market Reports. 
+
 •	Libra News And Talks web2.0 Domain. 
+
 • ENS web3.0 domain. 
+
 • Publication Memorandum. 
+
 • Community Serveys. 
+
 • Subject Specific Manifests.
+
 • Technical Support. 
+
 • Online Forums and Messenger Chatrooms.
 
 With the above key features, Libra News And Talks is able to exchange services and extend its products to other communities around, forming partnerships and alliances along the way. Aiming to educate and inform it’s user base, the experience of interacting and using the Libra News And Talks platform is something anyone will enjoy and gain new learnings from. Focusing on decentralized finance and Cryptocurrencies, its main objective is to become an educational news hub for research, and the development of Facebook's Libra, Central Bank Digital Currencies and Stable Crypto Token initiatives.
