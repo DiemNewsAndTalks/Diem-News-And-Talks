@@ -48,6 +48,13 @@ In last June (2019) Facebook released their first white paper for a stablecoin i
 
 The project had initally sparked a fire inside of the US Central Banking system and many others around the globe, since it’s initial inception last June. Since then regulators from the US, EU, Australia, China, Switerzland, The Middle East and other regions have stood against the spirit of The Libra Blockchain, by imposing tribunal dates and restrictions on how the project is able to operate. In the birth of the commotion Libra News And Talks was born to not only support the initiative, but also to provide information and insights on Libra's rivalling projects, community thoughts and market analysis, through using online social platforms.
 
+With the above key features, Libra News And Talks is able to exchange services and extend its products to other communities around, forming partnerships and alliances along the way. Aiming to educate and inform it’s user base, the experience of interacting and using the Libra News And Talks platform is something anyone will enjoy and gain new learnings from. Focusing on decentralized finance and Cryptocurrencies, its main objective is to become an educational news hub for research, and the development of Facebook's Libra, Central Bank Digital Currencies and Stable Crypto Token initiatives.
+
+
+## 4: Operational Planning.
+
+Needs to include a roadmap, timeline, and the dynamics of how to work an effencient execution model the proposed business, goals and objectives....
+
 Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof.
 
 The project is being developed to take to market with the following key features:
@@ -71,13 +78,6 @@ The project is being developed to take to market with the following key features
 • Technical Support. 
 
 • Online Forums and Messenger Chatrooms.
-
-With the above key features, Libra News And Talks is able to exchange services and extend its products to other communities around, forming partnerships and alliances along the way. Aiming to educate and inform it’s user base, the experience of interacting and using the Libra News And Talks platform is something anyone will enjoy and gain new learnings from. Focusing on decentralized finance and Cryptocurrencies, its main objective is to become an educational news hub for research, and the development of Facebook's Libra, Central Bank Digital Currencies and Stable Crypto Token initiatives.
-
-
-## 4: Operational Planning.
-
-Needs to include a roadmap, timeline, and the dynamics of how to work an effencient execution model the proposed business, goals and objectives....
 
 ## 5: Conlusion. 
 
