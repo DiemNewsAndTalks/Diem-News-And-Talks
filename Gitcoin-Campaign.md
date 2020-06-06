@@ -111,7 +111,7 @@ By offering each other the opportunity to ask questions and relate to topics thr
 
 From a perspective of a project that has engaged in the program, we have found that being able to share ideas, questions and have the chance to receive opinions expressed by others, during the webinars and chatrooms. Has given the project a wider audience to work on experiencing how the Libra News And Talks decentralized online news service, can become a viable product to support the development of open banking and decentralized finance across a global spectrum.
 
-###### F & Q's.
+###### F & Q's Libra News And Talks.
 
 Some of the most Frequently Asked Questions about the Libra News and Talks project so far, have been:
 
@@ -127,7 +127,7 @@ How are you going to distribute publications, manifests and market reports?
 
 Other than weekly updates and transcripts (from the webinar sessions) each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
 
-###### Webinar Conference Transcript.
+###### Webinar Conference Transcript (LNATS).
 
 LNATS transcript section: Sofia for LNATS: 01:25:19 - 1:25:48: “LNATS seeks to deliver news and discussion on the topic of Libra and is a group of collaborators that have been paying attention to the Libra project and feel that it important to establish a source of information around Libra.”
 
