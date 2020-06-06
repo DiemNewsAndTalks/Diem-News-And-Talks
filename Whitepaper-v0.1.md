@@ -2,7 +2,7 @@
 
 The following document is a paper describing the process implementation of building and developing a new online news service, social network and research community, driven around the infomation of The Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.
 
-Contents
+## Contents
 
 Introduction.
 Proposal.
@@ -24,7 +24,7 @@ As a project that will be offering online services to its community and users, L
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, along with the necessary pieces of information and documents for Libra News and Talks to become a functional and economic industry model.
 
-2: Libra News and Talks.
+## 2: Libra News and Talks.
 
 Over the course of the last decade, technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with them un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world at a fraction of the cost of traditional financial service providers like Western Union, IBS (International Bank of Settlements) and various other international payment service providers.
 
