@@ -2,7 +2,7 @@
 
 LNATS abbreviated for "Libra News And Talks" to be the project's native acronym for verbal context shortening and conversational benefits.
 
-Libra News And Talks (The project)
+## Libra News And Talks (The project)
 
 As a online news service provider focusing on Facebook's Libra digital token project, Central Bank Digital Currencies and Stable Crypto Tokens. Libra News And Talks is providing the education and research and development around the fintech space and beyond into economic and regualtory territory.
 
