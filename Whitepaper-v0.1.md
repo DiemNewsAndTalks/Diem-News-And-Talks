@@ -16,7 +16,7 @@ The following document is a paper describing the process implementation of build
 
 6) References.
 
-###### 1: Introduction.
+## 1: Introduction.
 
 The projects initiative is to provide news updates, educational resources and market analysis on Facebook’s Libra project, Stable Crypto Tokens and Central Bank Digital Currencies from around the world, along with governmental, economic and regualtory concerns around the whole spectrum of the 3 main points of focus.
 
