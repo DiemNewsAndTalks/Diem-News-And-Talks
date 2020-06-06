@@ -58,7 +58,7 @@ The most impacted stakeholder group: N/A (there are no stakeholders)
 
 The most impactful stakeholder group: N/A (there are no stakeholders)
 
-Running activities and Pending Resources.
+Running activities and Pending Resources. (Current outcomes and targets defined throughout the projects repository.)
 
 - Where are you on your roadmap: N/A (yet to be developed)
 
