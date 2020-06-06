@@ -62,7 +62,7 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 - Where are you on your roadmap: N/A (yet to be developed)
 
-- What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following objectives and projected outcomes. -
+- What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following list of projected outcomes. -
 
 *LNATS domain and ENS for community services.*
 
