@@ -64,7 +64,7 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 - What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following objectives and projected outcomes.
 
-LNATS domain and ENS for community services
+**LNATS domain and ENS for community services
 
 Marketing the project to achieve a wider audience. This would be done across the web3/crypto market.
 
