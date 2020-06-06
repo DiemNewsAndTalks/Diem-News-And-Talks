@@ -4,17 +4,17 @@ The following document is a paper describing the process implementation of build
 
 ## Contents
 
-Introduction.
+Introduction. - 1
 
-Proposal.
+Proposal. - 2
 
-Libra News and Talks.
+Libra News and Talks. - 3
 
-Operational planning.
+Operational planning. - 4
+ 
+Conclusion. - 5
 
-Conclusion.
-
-References.
+References. - 6
 
 ###### 1: Introduction.
 
