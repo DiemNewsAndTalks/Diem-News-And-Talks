@@ -86,7 +86,7 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 ###### Campaign Participants.
 
-Each of them with their own projects and unique backgrounds. List here - 
+Each of them with their own projects and unique backgrounds. A full list can be found here - 
 
 - SheDAO
 - StudyDeFi
