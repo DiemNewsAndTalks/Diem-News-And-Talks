@@ -16,7 +16,7 @@ By engaging in the Bitfwd GitCoin campaign, LNATS has been given the opportunity
 
 ###### LNATS Campaign Draft Board. 
 
- - Origin Story.
+ 1) Origin Story.
 
 How was the project born: The initial inception of LNATS was occupied by the movement of decentralised finance (DeFi) and the production of Facebook's Libra stablecoin project.
 
@@ -26,7 +26,7 @@ What connected the founders: The founders of the project are community members a
 
 How did the project evolve into what it is today: Using social media and other various forms of online communications, LNATS has been piloted specifically by web technologies and online communities.
 
-- Problem Definition.
+2) Problem Definition.
 
 What's going on that is not right? Currently the crypto currency markets are under regulated and illegitimate because of their inherit nature of being decentralised and free from governement censorship. This means they are tough to regulate and need regulatory approval to be functional financial products. This needs to change along with applied standards to digital assets.
 
@@ -36,7 +36,7 @@ How did you discover the problem: We initially discovered that there was no onli
 
 How are you going to solve the problem: To ensure that the online communities and businesses around the world are up to date and dijesting the latest information on market updates and regulations around CBDC, Libra and other stablecoin projects. Libra News and Talks is going to use social media, online publications and data driven analyst to give it's users a comprehensive range of diluted information to ensure legitimate educational insights are gained. Also we will offer resources such as newsletters and podcasts and interviews from industry leaders to solve dark shadow being cast over Libra by the regulators, governemnts and its rivals.
 
-- Value Proposition.
+3) Value Proposition.
 
 What are you building: Libra News and Talks is a online initiative focused on providing the latest news, updates, market insights, resources and regulations surrounding Facebook's Libra, CBDC and Stable Crypto Tokens.
 
@@ -46,7 +46,7 @@ How will you solve the problem: With focusing attention towards traditional fina
 
 How will it impact a greater community: As a financial product, Cryptocurrencies are tailored to meet life's everyday needs by allowing two parties to enxhange value across a network, being able to impact a wider audience than the current users of digital assets. Will require the project to achieve a marketing status on a global scale. Also by using online forums, project native newsletters and engaging in potential partnerships, the project will look to impact a wider following by providing market statistics and informational resources to all age groups.
 
-- Stakeholder Roles and Outcomes.
+4) Stakeholder Roles and Outcomes.
 
 The Team: Currently the team operating Libra News and Talks is consisting of no more than 5 members on a weekly rota.
 
@@ -74,7 +74,7 @@ Building a research commission for weekly updates on market behaviour around Lib
 
 Are you seeking alliances and talent mentors: Yes, being able to engage with other communities and projects would be very beneficial to the growth around the projects legitimacy.
 
-- Next Steps.
+5) Next Steps.
 
 Where are you on your roadmap: N/A (yet to be developed)
 
