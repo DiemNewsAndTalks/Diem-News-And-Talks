@@ -1,7 +1,5 @@
 # Libra-News-And-Talks
 
-LNATS abbreviated for "Libra News And Talks" as an acronym for the naming of the project.
-
 LNATS abbreviated for "Libra News And Talks" to be the project's native acronym for verbal context shortening and conversational benefits.
 
 Libra News And Talks (The project)
