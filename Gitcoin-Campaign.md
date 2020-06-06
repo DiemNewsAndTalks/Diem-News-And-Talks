@@ -18,41 +18,41 @@ By engaging in the Bitfwd GitCoin campaign, LNATS has been given the opportunity
 
  1) Origin Story.
 
-How was the project born: The initial inception of LNATS was occupied by the movement of decentralised finance (DeFi) and the production of Facebook's Libra stablecoin project.
+- How was the project born: The initial inception of LNATS was occupied by the movement of decentralised finance (DeFi) and the production of Facebook's Libra stablecoin project.
 
-What made it seem important: As global economics continue to decline so does the value of the currencies supporting them. Libra is offering a new payment system to the world and aiming to empower Billions of users. Providing online communities with the necessary information and market updates on regulations and procedures, that make stablecoins legitimate in the economy is the foundational structure for the LNATS service.
+- What made it seem important: As global economics continue to decline so does the value of the currencies supporting them. Libra is offering a new payment system to the world and aiming to empower Billions of users. Providing online communities with the necessary information and market updates on regulations and procedures, that make stablecoins legitimate in the economy is the foundational structure for the LNATS service.
 
-What connected the founders: The founders of the project are community members and local leaders within the crypto industry.
+- What connected the founders: The founders of the project are community members and local leaders within the crypto industry.
 
-How did the project evolve into what it is today: Using social media and other various forms of online communications, LNATS has been piloted specifically by web technologies and online communities.
+- How did the project evolve into what it is today: Using social media and other various forms of online communications, LNATS has been piloted specifically by web technologies and online communities.
 
 2) Problem Definition.
 
-What's going on that is not right? Currently the crypto currency markets are under regulated and illegitimate because of their inherit nature of being decentralised and free from governement censorship. This means they are tough to regulate and need regulatory approval to be functional financial products. This needs to change along with applied standards to digital assets.
+- What's going on that is not right? Currently the crypto currency markets are under regulated and illegitimate because of their inherit nature of being decentralised and free from governement censorship. This means they are tough to regulate and need regulatory approval to be functional financial products. This needs to change along with applied standards to digital assets.
 
-How did come about and what does it lead too: After the release of Libra's v1.0 of their white paper the project was out of stealth and not much was around on the internet in terms of publications, news and updates around the project. This was seen as a sandbox for a number of reasons to begin researching and writing about the project.
+- How did come about and what does it lead too: After the release of Libra's v1.0 of their white paper the project was out of stealth and not much was around on the internet in terms of publications, news and updates around the project. This was seen as a sandbox for a number of reasons to begin researching and writing about the project.
 
-How did you discover the problem: We initially discovered that there was no online communities focusing specifically on stablecoins and CBDC after 4 weeks of the release of Libra's white paper. Plus there are no projects logging the regulators movements in crypto.
+- How did you discover the problem: We initially discovered that there was no online communities focusing specifically on stablecoins and CBDC after 4 weeks of the release of Libra's white paper. Plus there are no projects logging the regulators movements in crypto.
 
-How are you going to solve the problem: To ensure that the online communities and businesses around the world are up to date and dijesting the latest information on market updates and regulations around CBDC, Libra and other stablecoin projects. Libra News and Talks is going to use social media, online publications and data driven analyst to give it's users a comprehensive range of diluted information to ensure legitimate educational insights are gained. Also we will offer resources such as newsletters and podcasts and interviews from industry leaders to solve dark shadow being cast over Libra by the regulators, governemnts and its rivals.
+- How are you going to solve the problem: To ensure that the online communities and businesses around the world are up to date and dijesting the latest information on market updates and regulations around CBDC, Libra and other stablecoin projects. Libra News and Talks is going to use social media, online publications and data driven analyst to give it's users a comprehensive range of diluted information to ensure legitimate educational insights are gained. Also we will offer resources such as newsletters and podcasts and interviews from industry leaders to solve dark shadow being cast over Libra by the regulators, governemnts and its rivals.
 
 3) Value Proposition.
 
-What are you building: Libra News and Talks is a online initiative focused on providing the latest news, updates, market insights, resources and regulations surrounding Facebook's Libra, CBDC and Stable Crypto Tokens.
+- What are you building: Libra News and Talks is a online initiative focused on providing the latest news, updates, market insights, resources and regulations surrounding Facebook's Libra, CBDC and Stable Crypto Tokens.
 
-What does your project seek to accomplish: By using social media networks, online publications and communities with other resources outside of grouped initiatives. LNATS is aiming to become a hub for all things relating to Libra, Central Bank Digital Currencies and Stablecoin projects.
+- What does your project seek to accomplish: By using social media networks, online publications and communities with other resources outside of grouped initiatives. LNATS is aiming to become a hub for all things relating to Libra, Central Bank Digital Currencies and Stablecoin projects.
 
-How will you solve the problem: With focusing attention towards traditional financial services and extending the views expressed over to the crypto markets, we will be able to offer and exchange valuable information on regulations and market standards along with a economic analysis. To ensure that we solve the problem of the dark cloud hanging over the legitimacy of Libra, CBDCs and Stablecoins. Furthermore our platform will provide technical support for all related projects. 
+- How will you solve the problem: With focusing attention towards traditional financial services and extending the views expressed over to the crypto markets, we will be able to offer and exchange valuable information on regulations and market standards along with a economic analysis. To ensure that we solve the problem of the dark cloud hanging over the legitimacy of Libra, CBDCs and Stablecoins. Furthermore our platform will provide technical support for all related projects. 
 
-How will it impact a greater community: As a financial product, Cryptocurrencies are tailored to meet life's everyday needs by allowing two parties to enxhange value across a network, being able to impact a wider audience than the current users of digital assets. Will require the project to achieve a marketing status on a global scale. Also by using online forums, project native newsletters and engaging in potential partnerships, the project will look to impact a wider following by providing market statistics and informational resources to all age groups.
+- How will it impact a greater community: As a financial product, Cryptocurrencies are tailored to meet life's everyday needs by allowing two parties to enxhange value across a network, being able to impact a wider audience than the current users of digital assets. Will require the project to achieve a marketing status on a global scale. Also by using online forums, project native newsletters and engaging in potential partnerships, the project will look to impact a wider following by providing market statistics and informational resources to all age groups.
 
 4) Stakeholder Roles and Outcomes.
 
-The Team: Currently the team operating Libra News and Talks is consisting of no more than 5 members on a weekly rota.
+- The Team: Currently the team operating Libra News and Talks is consisting of no more than 5 members on a weekly rota.
 
-The community: The community behind the LNATS project is a group of people from around the globe that communicate online, with also a few other local initiatives from Oceania collaborating on the project.
+- The community: The community behind the LNATS project is a group of people from around the globe that communicate online, with also a few other local initiatives from Oceania collaborating on the project.
 
-The benefactors: anyone who chooses to use the platform as a means of professional and educational resources to Libra, CBDC and Stablecoin projects.
+- The benefactors: anyone who chooses to use the platform as a means of professional and educational resources to Libra, CBDC and Stablecoin projects.
 
 The most impacted stakeholder group: N/A (there are no stakeholders)
 
@@ -60,9 +60,9 @@ The most impactful stakeholder group: N/A (there are no stakeholders)
 
 Running activities and Pending Resources.
 
-Where are you on your roadmap: N/A (yet to be developed)
+- Where are you on your roadmap: N/A (yet to be developed)
 
-What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following objectives and projected outcomes.
+- What would you do if you raise enough from the grant: If the sufficient funds are raised the profits would be allocated to the following objectives and projected outcomes.
 
 LNATS domain and ENS for community services
 
@@ -72,17 +72,17 @@ Developing and designing graphics package for the domain and ENS.
 
 Building a research commission for weekly updates on market behaviour around Libra, CBDCs and Stable Crypto Tokens.
 
-Are you seeking alliances and talent mentors: Yes, being able to engage with other communities and projects would be very beneficial to the growth around the projects legitimacy.
+- Are you seeking alliances and talent mentors: Yes, being able to engage with other communities and projects would be very beneficial to the growth around the projects legitimacy.
 
 5) Next Steps.
 
-Where are you on your roadmap: N/A (yet to be developed)
+- Where are you on your roadmap: N/A (yet to be developed)
 
-What's next and whens it coming: N/A untill after the campaign.
+- What's next and whens it coming: N/A untill after the campaign.
 
-Do you have a funding target to start the next stage of your project: 20-30k
+- Do you have a funding target to start the next stage of your project: 20-30k
 
-What happens if you raise more than expected: We will plan to achieve the goals written below and projected outcomes and will remain loyal untill those specific baselines are met.
+- What happens if you raise more than expected: We will plan to achieve the goals written below and projected outcomes and will remain loyal untill those specific baselines are met.
 
 ###### Campaign Participants.
 
