@@ -32,8 +32,6 @@ As a project that will be offering online services to its community and users, L
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, plus the necessary pieces of information and documents needed for Libra News and Talks to become a functional, representatable and unique industry model that supports, the economic activity of The Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.
 
-- *Using both the tradtional and cryptocurrency markets, LNATS is able to boardern the spectrum of focus to more niche and potential furture use cases of digital assets and currencies. Being specifcally focused on Libra, CBDC's and SCT's allows for the research and development of how these new currencies will maintain life within the economy and what other areas of finance they can be applied to.*
-
 ## 2: Project Proposal. 
 
 Explain the project in details of a proposed venture to potentail stakeholders, alliences, partnerships and the general base of expected users...
@@ -53,7 +51,9 @@ With the above list of monetary components already involved in the financial sys
 
 - *The main point of abstract focus will be towards how each subseted point is going to be benefitted and affected by the introduction of Libra, Central Bank Digital Currencies and Stable Crypto Tokens into the economy.* 
 
-By means of choosing each subsetted point to apply to a particular main point of focus, LNATS, is going to provide a range of diverse manifests, publications, social news feeds, questionaires and commuinity driven agenda's, to ensure effective engagement is driven towards to decentralised and tradtional financial markets; By choosing infomation as the main source of value income for the project LNATS can support itself, on a contimnum of market behaviour coming from a global audience of over 200 countries and nations states. Plus further more, the cryptocurrency markets are open to traders, investors, speculators and researchers 25/7 365 days a year providing even more benefical infomation and analysis to the consumers of the Libra News And Talks decentralised social news servives. 
+By means of choosing each subsetted point to apply to a particular main point of focus, LNATS, is going to provide a range of diverse manifests, publications, social news feeds, questionaires and commuinity driven agenda's, to ensure effective engagement is driven towards to decentralised and tradtional financial markets; By choosing infomation as the main source of value income for the project LNATS can support itself, on a contimnum of market behaviour coming from a global audience of over 200 countries and nations states. Plus further more, the cryptocurrency markets are open to traders, investors, speculators and researchers 25/7 365 days a year providing even more benefical infomation and analysis to the consumers of the Libra News And Talks decentralised social news services. 
+
+- *Using both the tradtional and cryptocurrency markets, LNATS is able to boardern the spectrum of focus to more niche and potential furture use cases of digital assets and currencies. Being specifcally focused on Libra, CBDC's and SCT's allows for the research and development of how these new currencies will maintain life within the economy and what other areas of finance they can be applied to.*
 
 ## 3: Libra News and Talks.
 
