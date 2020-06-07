@@ -102,8 +102,23 @@ The project is being developed to take to market with the following key features
 
 **Roadmap & Timeline** 
 
+To get an abtract view of how the project is planning to drive the value of it's time between resources and it's goals and objectives, below we have provided a roadmap and given timeline for each of the planned goals and objectives. 
 
 
 ## 5: Conlusion. 
 
 ## 6: References. 
+
+1: @LibraNewsnTalks (https://twitter.com/LibraNewsnTalks)
+
+2: @LNATS002 (https://twitter.com/LNATS2020)
+
+3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra)
+
+4: @LNATS203 (https://mobile.twitter.com/LNATS203)
+
+5: https://libra.org/en-US/
+
+6: https://en.wikipedia.org/wiki/Central_bank_digital_currency
+
+7: https://en.wikipedia.org/wiki/Stablecoin
