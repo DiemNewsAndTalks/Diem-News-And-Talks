@@ -74,7 +74,7 @@ With the above key features, Libra News And Talks is able to exchange services a
 
 Needs to include a roadmap, timeline, and the dynamics of how to work an efficient execution model the proposed business, goals and objectives....
 
-This part of the Libra News And Talks whitepaper v0.1 documentation is allocated to definition of the development of the platforms opertations. By means of building a decentralised social news service, the platform must be able to offer multiple services that inform and substitute the knowledge of its general user base. This is going to be acheived by developing the key features below to ensure that suffcient information is provided to all of the platforms users. 
+This part of the Libra News And Talks whitepaper v0.1 documentation is allocated to definition of the development of the platforms opertations. By means of building a decentralised social news service, the platform must be able to offer multiple services that inform and substitute the knowledge of its general user base. This is going to be acheived by developing the key features written below to ensure that suffcient information is provided to all of the platforms users. 
 
 ###### - *Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof.*
 
