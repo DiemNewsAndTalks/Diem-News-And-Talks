@@ -78,13 +78,13 @@ Focusing on The Libra Blockchain specifically, Libra News and Talks is one of th
 
 The project is being developed to take to market with the following key features:
 
-•	Social Media Profiles. *Will be used for community initiatives, campaigns, building awareness around particular subject or peice of infomation. Plus using social media allows for free and potentially discounted marketing to access a larger user base, moreso gaining insights from the community, industry participants and other news sources can be found on social media while also supporting the growth of the project.* 
+•	Social Media Profiles. *Will be used for community initiatives, campaigns, building awareness around LNATS and particular subjects or peices of infomation. Plus using social media allows for free and potentially discounted marketing to access a larger user base, moreso gaining insights from the community, industry participants and other news sources can be found on social media while also supporting the growth of the project.* 
 
-•	Weekly Newsletters. 
+•	Weekly Newsletters. *Covering the most important news of each week around the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.*
 
-•	Monthly and Quarterly Market Reports. 
+•	Monthly and Quarterly Market Reports. *The general narrative behind each report will be a subset of topics, which through out the month or quarter have paid an important role in the behaviour of each market (fiat and crypto). By focusing on the aspects of behaviour which caused the markets biggest movements, largest profit returns, losses and....
 
-•	Libra News And Talks web2.0 Domain. 
+•	Libra News And Talks web2.0 Domain. *Will be a tradtional website which will be the home of the Libra News And Talks decentralised social news service. From the web2.0 domain users and consumers will be able to navigate around the platform, read infomation about the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens, participate in community conversation, campaigns and questionaires. Furthermore the LNATS web2.0 domain will allow access to the financial market with infomation such as prices, rates, brokers, lenders and dealers (fiat and crypto). 
 
 • ENS web3.0 domain. 
 
