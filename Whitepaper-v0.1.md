@@ -74,7 +74,9 @@ With the above key features, Libra News And Talks is able to exchange services a
 
 Needs to include a roadmap, timeline, and the dynamics of how to work an efficient execution model the proposed business, goals and objectives....
 
-Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof.
+This part of the Libra News And Talks whitepaper v0.1 documentation is allocated to definition of the development of the platforms opertations. By means of building a decentralised social news service, the platform must be able to offer multiple services that inform and substitute the knowledge of its general user base. This is going to be acheived by developing the key features below to ensure that suffcient information is provided to all of the platforms users. 
+
+######- *Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof.*
 
 The project is being developed to take to market with the following key features:
 
@@ -96,7 +98,7 @@ The project is being developed to take to market with the following key features
 
 • Technical Support: *Provisions of the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens will be offered through the LNATS platform as a service. To give its users, community and general user base a better understanding of the underlying technology. By providing technical support, LNATS is able to attain an extra layer of use cases by supporting the knowledge and problem solving in it's community, ensuring that its user base is able to interact with and use the services they are being informed about. Also focusing attention towards the technical side of the 3 main points of focus, supports the narrative of having a social news service, that is willing to take the transition into the digital era of finance.* 
 
-• Online Forums and Messenger Chatrooms: *As a decentralised social news service provider, LNATS is going to offer its community and general user base the oppourtunity, to engage in conversation with eachother across multiple chatroom applications, in-house messenging service and other forms of digital communitcations (e-mail, Telegram, Whatsapp, Discord).
+• Online Forums and Messenger Chatrooms: *As a decentralised social news service provider, LNATS is going to offer its community and general user base the oppourtunity, to engage in conversation with eachother across multiple chatroom applications, in-house messenging service and other forms of digital communitcations (e-mail, Telegram, Whatsapp, Discord).*
 
 ## 5: Conlusion. 
 
