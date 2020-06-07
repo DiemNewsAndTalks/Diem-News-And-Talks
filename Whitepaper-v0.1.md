@@ -36,6 +36,21 @@ The following parts of the paper will now provide the reader with an overview of
 
 Explain the project in details of a proposed venture to potentail stakeholders, alliences, partnerships and the general base of expected users...
 
+The potential of Libra News And Talks is dervied, from the base of the financial techonology industry movements, towards digitalisation and a technocratic future. Which is dependant upon Blockchain techonolgy and other exsiting peices of infastructure, like digital assets, customer accounts, money markets, economics and banking the under banked population of the world. By choosing the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens, Libra News And Talks is able to bring forward infomation and analysis of the decentralised finance movements to the web3 and tradtional internet. Supporting each of the 3 main points of focus with infomation towards the legitimacy, and thier potential, brings forward a choice in which active economic component is also being affected by the projects. - A basic list of subset components: 
+
+- Monetary Value. 
+- Government Spending.
+- Government Lending.
+- Social Monetary Policies and Prodecures. 
+- Public Infastructure Operations Costs. 
+- Inter-Bank Lending. 
+- National Trading. 
+- Comnmiditie Markets. 
+
+With the above list of monetary components already involved in the financial system, Libra News And Talks is able to break down a comprehensively informative and dilutional decentralised social news service, that aims to provide its users and consumers with enough infomation, to support their questions, concerns and aniticpations towards the applicability of, the Libra Blockchain Network, Central Bank Digital Currencies and Stable Crypto Tokens. 
+
+*The main point of abstract focus will be towards how each subseted point is going to be benefitted and affected by the introduction of Libra, Central Bank Digital Currencies and Stable Crypto Tokens.* 
+
 ## 3: Libra News and Talks.
 
 Over the course of the last decade, technology advancements in financial services and web based products have sky rocketed into the market for the general public. Bringing with them un-stoppable innovations like Cryptocurrencies and public blockchain networks that offer the opportunity, to send money to anyone in the world at a fraction of the cost of traditional financial service providers like Western Union, IBS (International Bank of Settlements), SWIFT (The Society for Worldwide Interbank Financial Telecommunication), and various other international payment service providers.
