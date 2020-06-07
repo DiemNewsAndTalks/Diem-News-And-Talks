@@ -100,6 +100,10 @@ The project is being developed to take to market with the following key features
 
 • **Online Forums and Messenger Chatrooms:** *As a decentralised social news service provider, LNATS is going to offer its community and general user base the oppourtunity, to engage in conversation with eachother across multiple chatroom applications, in-house messenging service and other forms of digital communitcations (e-mail, Telegram, Whatsapp, Discord).*
 
+**Roadmap & Timeline** 
+
+
+
 ## 5: Conlusion. 
 
 ## 6: References. 
