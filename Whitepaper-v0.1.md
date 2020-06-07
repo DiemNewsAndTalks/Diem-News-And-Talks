@@ -34,8 +34,6 @@ The following parts of the paper will now provide the reader with an overview of
 
 ## 2: Project Proposal. 
 
-Explain the project in details of a proposed venture to potentail stakeholders, alliences, partnerships and the general base of expected users...
-
 The potential of Libra News And Talks is dervied, from the base of the financial techonology industry movements, towards digitalisation and a technocratic future. Which is dependant upon Blockchain techonolgy and other exsiting peices of infastructure, like digital assets, customer accounts, money markets, economics and banking the under banked population of the world. By choosing the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens, Libra News And Talks is able to bring forward infomation and analysis of the decentralised finance movements to the web3 and tradtional internet. Supporting each of the 3 main points of focus with infomation towards the legitimacy, and thier potential, brings forward a choice in which active economic component is also being affected by the projects. - A basic list of subset components: 
 
 - Monetary Value. 
