@@ -78,7 +78,7 @@ Focusing on The Libra Blockchain specifically, Libra News and Talks is one of th
 
 The project is being developed to take to market with the following key features:
 
-•	Social Media Profiles. *To use for community initiatives, campaigns, building awareness around particular subject or peice of infomation. Plus using social media allows for free and potentially discounted marketing to access a larger user base, moreso gaining insights from the community, industry participants and other news sources can be found on social media while also supporting the growth of the project.* 
+•	Social Media Profiles. *Will be used for community initiatives, campaigns, building awareness around particular subject or peice of infomation. Plus using social media allows for free and potentially discounted marketing to access a larger user base, moreso gaining insights from the community, industry participants and other news sources can be found on social media while also supporting the growth of the project.* 
 
 •	Weekly Newsletters. 
 
