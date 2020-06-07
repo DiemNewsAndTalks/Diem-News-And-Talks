@@ -84,7 +84,7 @@ The project is being developed to take to market with the following key features
 
 •	Monthly and Quarterly Market Reports. *The general narrative behind each report will be a subset of topics, which through out the month or quarter have paid an important role in the behaviour of each market (fiat and crypto). By focusing on the aspects of behaviour which caused the markets biggest movements, largest profit returns, losses and....
 
-•	Libra News And Talks web2.0 Domain. *Will be a tradtional website which will be the home of the Libra News And Talks decentralised social news service. From the web2.0 domain users and consumers will be able to navigate around the platform, read infomation about the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens, participate in community conversation, campaigns and questionaires. Furthermore the LNATS web2.0 domain will allow access to the financial market with infomation such as prices, rates, brokers, lenders and dealers (fiat and crypto). 
+•	Libra News And Talks web2.0 Domain. *Will be a tradtional website which will be the home of the Libra News And Talks decentralised social news service. From the web2.0 domain users and consumers will be able to navigate around the platform, read infomation about the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens, participate in community conversation, campaigns and questionaires. Furthermore the LNATS web2.0 domain will allow access to the financial market with infomation such as prices, rates, brokers, lenders and dealers (fiat and crypto).*
 
 • ENS web3.0 domain. 
 
