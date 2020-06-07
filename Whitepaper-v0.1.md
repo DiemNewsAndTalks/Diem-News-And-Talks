@@ -55,7 +55,7 @@ By means of choosing each subsetted point to apply to a particular main point of
 
 - *Using both the tradtional and cryptocurrency markets, LNATS is able to boardern the spectrum of focus to more niche and potential future use cases of digital assets and currencies. Being specifcally focused on Libra, CBDC's and SCT's allows for the research and development of how these new currencies will maintain life within the economy and what other areas of finance they can be applied to.*
 
-Under the hood of the architecture behind Libra News And Talks, is the benefits of being able to conduct research and data driven analytics towards the future of the global economny. Being able to focus on the use cases and impact of Libra, Central Bank Digital Currencies and Stable Crypto Tokens, the LNATS decentralised social news service, does not only see potential in providing infomation, but also in the aggregation of history which is created, as Libra, Central Bank Digital Currencies and Stable Crypto Tokens become useable products within the physical economy and the web3.0.  
+Under the hood of the architecture behind Libra News And Talks, is the benefits of being able to conduct research and data driven analytics towards the future of the global economny. Being able to focus on the use cases and impact of Libra, Central Bank Digital Currencies and Stable Crypto Tokens, the LNATS decentralised social news service, does not only see potential in providing infomation, but also in the aggregation of history which is created, as the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens become useable products within the physical economy and the web3.0.  
 
 ## 3: Libra News and Talks.
 
