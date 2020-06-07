@@ -49,7 +49,7 @@ The potential of Libra News And Talks is dervied, from the base of the financial
 
 With the above list of monetary components already involved in the financial system, Libra News And Talks is able to break down a comprehensively informative and dilutional decentralised social news service, that aims to provide its users and consumers with enough infomation, to support their questions, concerns and aniticpations towards the applicability of, the Libra Blockchain Network, Central Bank Digital Currencies and Stable Crypto Tokens. 
 
-*The main point of abstract focus will be towards how each subseted point is going to be benefitted and affected by the introduction of Libra, Central Bank Digital Currencies and Stable Crypto Tokens.* 
+- *The main point of abstract focus will be towards how each subseted point is going to be benefitted and affected by the introduction of Libra, Central Bank Digital Currencies and Stable Crypto Tokens.* 
 
 ## 3: Libra News and Talks.
 
