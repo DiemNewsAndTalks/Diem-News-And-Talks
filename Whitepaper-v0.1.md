@@ -45,7 +45,7 @@ The potential of Libra News And Talks is dervied, from the base of the financial
 - Public Infastructure Operations Costs. 
 - Inter-Bank Lending. 
 - National Trading. 
-- Comnmiditiy Markets. 
+- Comnmidity Markets. 
 
 With the above list of monetary components already involved in the financial system, Libra News And Talks is able to break down a comprehensively informative and dilutional decentralised social news service, that aims to provide its users and consumers with enough infomation, to support their questions, concerns and aniticpations towards the applicability of, the Libra Blockchain Network, Central Bank Digital Currencies and Stable Crypto Tokens. 
 
