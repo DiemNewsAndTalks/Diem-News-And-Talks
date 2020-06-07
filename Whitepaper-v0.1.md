@@ -32,6 +32,8 @@ As a project that will be offering online services to its community and users, L
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, plus the necessary pieces of information and documents needed for Libra News and Talks to become a functional, representatable and unique industry model that supports, the economic activity of The Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.
 
+- *Using both the tradtional and cryptocurrency markets, LNATS is able to boardern the spectrum of focus to more niche and potential furture use cases of digital assets and currencies. Being specifcally focused on Libra, CBDC's and SCT's allows for the research and development of how these new currencies will maintain life within the economy and what other areas of finance they can be applied to.*
+
 ## 2: Project Proposal. 
 
 Explain the project in details of a proposed venture to potentail stakeholders, alliences, partnerships and the general base of expected users...
