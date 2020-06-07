@@ -72,13 +72,13 @@ With the above key features, Libra News And Talks is able to exchange services a
 
 ## 4: Operational Planning.
 
-Needs to include a roadmap, timeline, and the dynamics of how to work an effencient execution model the proposed business, goals and objectives....
+Needs to include a roadmap, timeline, and the dynamics of how to work an efficient execution model the proposed business, goals and objectives....
 
 Focusing on The Libra Blockchain specifically, Libra News and Talks is one of the only news platforms with a focus on Stable Crypto Tokens and Central Bank Digital Currencies all under one roof.
 
 The project is being developed to take to market with the following key features:
 
-•	Social Media Profiles. 
+•	Social Media Profiles. *To use for community initiatives, campaigns, building awareness around particular subject or peice of infomation. Plus using social media allows for free and potentially discounted marketing to access a larger user base.* 
 
 •	Weekly Newsletters. 
 
