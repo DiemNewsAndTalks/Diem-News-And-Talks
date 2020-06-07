@@ -117,8 +117,8 @@ To get an abtract view of how the project is planning to drive the value of it's
 
 4: @LNATS203 (https://mobile.twitter.com/LNATS203)
 
-5: https://libra.org/en-US/
+5: The offical Libra website (https://libra.org/en-US/)
 
-6: https://en.wikipedia.org/wiki/Central_bank_digital_currency
+6: Definition of Central Bank Digital Currencies (https://en.wikipedia.org/wiki/Central_bank_digital_currency)
 
-7: https://en.wikipedia.org/wiki/Stablecoin
+7: Definition of Stable Crypto Tokens (https://en.wikipedia.org/wiki/Stablecoin)
