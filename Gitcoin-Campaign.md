@@ -8,13 +8,13 @@ GitCoin has recently become one of the most spoken about QF models inside of the
 
 In the following statement, you will find the activities and events that was held during the course of May to July 2020 from a number of participants (list below) who all engaged in the Bitfwd GitCoin Grant Campaign 2020.
 
-###### Campaign Activites and Participants.
+## Campaign Activites and Participants.
 
 Libra News and Talks was created and is headed by a member of the Sydney Crypto Society. Who has specifically chosen to participate in the BitFwd Gitcoin Grant Campaign, as a member seeking investment, alliances and partnerships, while also using the opportunity to grow and expand the project from engaging with the projects participating in the campaign.
 
 By engaging in the Bitfwd GitCoin campaign, LNATS has been given the opportunity to receive the benefits of regular communications and weekly conference calls to have, and be asked questions about the Libra News and Talks online news service. From the start of the campaign, every project has shared a comment board, along with transcripts from each conference call see here: (See Below).
 
-###### LNATS Campaign Draft Board. 
+## LNATS Campaign Draft Board. 
 
  1) Origin Story.
 
@@ -84,7 +84,7 @@ Running activities and Pending Resources. (Current outcomes and targets defined 
 
 **- What happens if you raise more than expected:** *We will plan to achieve the goals written below and projected outcomes and will remain loyal untill those specific baselines are met.*
 
-###### Campaign Participants.
+## Campaign Participants.
 
 Each of them with their own projects and unique backgrounds. A full list can be found here - 
 
@@ -111,7 +111,7 @@ By offering each other the opportunity to ask questions and relate to topics thr
 
 From a perspective of a project that has engaged in the program, we have found that being able to share ideas, questions and have the chance to receive opinions expressed by others, during the webinars and chatrooms. Has given the project a wider audience to work on experiencing how the Libra News And Talks decentralized online news service, can become a viable product to support the development of open banking and decentralized finance across a global spectrum.
 
-###### F & Q's Libra News And Talks.
+## F & Q's Libra News And Talks.
 
 Some of the most Frequently Asked Questions about the Libra News and Talks project so far, have been - 
 
@@ -137,7 +137,7 @@ How are you going to distribute publications, manifests and market reports?
 
 Other than weekly updates and transcripts (from the webinar sessions) each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
 
-###### Webinar Conference Transcript (LNATS).
+## Webinar Conference Transcript (LNATS).
 
 LNATS transcript section: Sofia for LNATS: 01:25:19 - 1:25:48: *“LNATS seeks to deliver news and discussion on the topic of Libra and is a group of collaborators that have been paying attention to the Libra project and feel that it important to establish a source of information around Libra.”*
 
