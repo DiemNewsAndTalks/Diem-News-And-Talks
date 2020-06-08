@@ -28,7 +28,25 @@ As a natively censorship resistant network, Blockchains offer the opportunity fo
 
 Libra News And Talks will be specifically aimed at providing it’s local and online community with the latest and best possible overview of the current decentralised finance markets, along with real time updates on regulations, service providers and project developments from organisations and governments around the world. (Relative to The Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens). Bringing to the table, a new form of decentralised online publication and digital journalism that is to be integrated with blockchain techonology and crypto tokens, along with multimedia content and keynote presentations, which are specifically designed to suit the industry standards of traditional and modern financial technology.
 
-As a project that will be offering online services to its community and users, Libra News and Talks will aim to be become a key player in the future of decentralised and online digital journalism. Focusing specifically on Facebook’s Libra project, Central Bank Digital Currencies and Stable Crypto Token initiatives such as MakerDAO, Tether, Binance USD and others. The project will look to become a part of the crypto market, by offering news updates, technical support and analysis of public Blockchains, along with newsletters and market alerts to, bring forward a new era in financial reviews and technical information, targeted at the decentralised, modern and tradtional financial industry.
+As a project that will be offering online services to its community and users, Libra News and Talks will aim to be become a key player in the future of decentralised and online digital journalism. Focusing specifically on Facebook’s Libra project, Central Bank Digital Currencies and Stable Crypto Token initiatives such as MakerDAO, Tether, Binance USD and others. 
+
+The project will look to become a part of the crypto market, by offering news updates, technical support and analysis of public Blockchains, Libra, Central Bank Digital Currencies and Stable Crypto Tokens. Along with newsletters and market alerts to, bring forward a new era in financial reviews and technical information, targeted at the decentralised, modern and tradtional financial industry. 
+
+By supporting their knowledge with newsletters, multimedia content presentations and formal publications, Libra News and Talks gives a new look to the age of open banking and public markets with direct access to the latest innovations in fintech and Cryptocurrencies.
+
+Libra News and Talks opertaions have been active since September 2019 with the following social media accounts (Twitter).
+
+1: @LibraNewsnTalks (https://twitter.com/LibraNewsnTalks)
+
+2: @LNATS002 (https://twitter.com/LNATS2020)
+
+3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra)
+
+4: @LNATS203 (https://mobile.twitter.com/LNATS203)
+
+(The accounts linked above are subject to change and should not in anyway be considered a final product or service from Libra News and Talks.)
+
+By using four different accounts, the project has been able to gain access to the potential marketing expenses for the project and also the design of the service from a range of different angles. Which in return has allowed LNATS to develop targeted pencentages of growth of around 7/8% per quarter through, general information hand outs and basic functionality. The initial time consumption of expanding the projects base layer with regular updates, questions and serveys being given to the community currently consists of around, 15-20 hours per week (per person).
 
 The following parts of the paper will now provide the reader with an overview of the project, it’s key features, goals and objectives, plus the necessary pieces of information and documents needed for Libra News and Talks to become a functional, representatable and unique industry model that supports, the economic activity of The Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.
 
@@ -53,7 +71,7 @@ By means of choosing each subsetted point to apply to a particular main point of
 
 - *Using both the tradtional and cryptocurrency markets, LNATS is able to boardern the spectrum of focus to more niche and potential future use cases of digital assets and currencies. Being specifcally focused on Libra, CBDC's and SCT's allows for the research and development of how these new currencies will maintain life within the economy and what other areas of finance they can be applied to.*
 
-Under the hood of the architecture behind Libra News And Talks, is the benefits of being able to conduct research and data driven analytics towards the future of the global economny. Being able to focus on the use cases and impact of Libra, Central Bank Digital Currencies and Stable Crypto Tokens, the LNATS decentralised social news service, does not only see potential in providing infomation, but also in the aggregation of history which is created, as the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens become useable products within the physical economy and the web3.0.  
+Under the hood of the architecture behind Libra News And Talks, is the benefits of being able to conduct research and data driven analytics towards the future of the global economny. Being able to focus on the use cases and impact of Libra, Central Bank Digital Currencies and Stable Crypto Tokens, the LNATS decentralised social news service, does not only see potential in providing infomation, but also in the aggregation of history which is created, as the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens become useable products within the physical economy and the web3.0. 
 
 ## 3: Libra News and Talks.
 
@@ -108,6 +126,8 @@ The project is being developed to take to market with the following key features
 • **Online Forums and Messenger Chatrooms:** *As a decentralised social news service provider, LNATS is going to offer its community and general user base the oppourtunity, to engage in conversation with eachother across multiple chatroom applications, in-house messenging service and other forms of digital communitcations (e-mail, Telegram, Whatsapp, Discord).*
 
 With the above key features, Libra News And Talks is able to exchange services and extend its products to other communities around, forming partnerships and alliances along the way. Aiming to educate and inform it’s user base, the experience of interacting and using the Libra News And Talks platform is something anyone will enjoy and gain new learnings from. Focusing on decentralized finance and Cryptocurrencies, its main objective is to become an educational news hub for research, and the development of Facebook's Libra, Central Bank Digital Currencies and Stable Crypto Token initiatives.
+
+Generating more business from the platform(LNATS) means that the service has to have a model for fungibility within the flow of operational dynamics. Because of this 'The Libra News and Talks Research Commission' has been created as an object specific task force. Dedicated to providing the Libra News and Talks online news service, with the information required to build the project into a fully functioning economic entity and competently recognised industry model. See the Whitepaper for more information on how the Libra News And Talks Research Commission is built to provide and support the LNATS news service.
 
 **Roadmap & Timeline** 
 
