@@ -18,7 +18,7 @@ By engaging in the Bitfwd GitCoin campaign, LNATS has been given the opportunity
 
  1) Origin Story.
 
-- How was the project born: The initial inception of LNATS was occupied by the movement of decentralised finance (DeFi) and the production of Facebook's Libra stablecoin project.
+*- How was the project born*: The initial inception of LNATS was occupied by the movement of decentralised finance (DeFi) and the production of Facebook's Libra stablecoin project.
 
 - What made it seem important: As global economics continue to decline so does the value of the currencies supporting them. Libra is offering a new payment system to the world and aiming to empower Billions of users. Providing online communities with the necessary information and market updates on regulations and procedures, that make stablecoins legitimate in the economy is the foundational structure for the LNATS service.
 
