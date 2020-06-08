@@ -6,6 +6,8 @@
 
 ###### - A decentralised social news platform that provides the service of informing the financial industry on the insights, market behaviour and latest updates towards the movement of the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens. 
 
+! (https://pbs.twimg.com/profile_banners/1246681598772166656/1591012792/1500x500)
+
 To engage with the platform, please see: 
 
 1: @LibraNewsnTalks (https://twitter.com/LibraNewsnTalks)
