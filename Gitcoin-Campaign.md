@@ -156,3 +156,10 @@ Sofia for LNATS: 01:30:26 - 01:35:25: *“The offering of specialising on Libra 
 Vandal for LNATS 01:35:26 - 1:36:18: *"A few years back I discovered a project called “Humanic” and they were planning to bank the unbanked just like you are suggesting that Libra wants to do. Their central focus was and still is in Africa and they are a decentralised project, they were doing events, onboarding, microloans, small business funding, empowering the unbanked utilizing crypto and fungible tokens as a means of exchange on their app, so if Africa is an area of interest for you - you might find them interesting."*
 
 Conor for LNATS 01:36:37: *“Yes please. Indeed we targeted Libra specifically because of the use-case, but at the same time the neutrality of information and alignment with the audience are important to us and we realise that the bigger picture is at play."*
+
+
+## Conclusion 
+
+As a participant in the BitFwd Gitcoin Campaign, Libra News And Talks has found that the 4-5 week course of interacting with the groups and engaging in conversation has been benefical to the LNATS project on many levels. Being able to speak to with other campaign prospects and to allow for eachother to provide ideas towards each project, has supported insights from an outsiders and potential investors perspective along with, what do the general users think of the platforms service. Which in return has given LNATS multiple oppourtunites to re-design and re-think how to move forward with the gitcoin grant. 
+
+Through-out the course of the BitFwd campaign the chance to interact with other entrepureners has been a huge benefit! Espically with so many projects involved in the initiative to share and disscuss ideas with, if you're wondering about asking if it worth enaging in something similar, we would say 100% definatley, go for it, theres nothing to loose. 
