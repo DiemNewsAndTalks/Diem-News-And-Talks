@@ -6,6 +6,8 @@ Quadrandtic Funding and Crowd Based Financing has the potential to change Ventur
 
 GitCoin has recently become one of the most spoken about QF models inside of the cryptocurrency and public Blockchain space. With this has come alot of attention from small projects building and developing for all things Blockchain. From Sydney, Australia, 'Libra News and Talks' was birthed and is participating in a local/global initiative held by BitFwd Community, also from Sydney Australia.
 
+Other than consitant conversation, weekly updates and transcripts (from the webinar sessions) each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
+
 In the following statement, you will find the activities and events that was held during the course of May to July 2020 from a number of participants (list below) who all engaged in the Bitfwd GitCoin Grant Campaign 2020.
 
 ## Campaign Activites and Participants.
@@ -117,25 +119,23 @@ Some of the most Frequently Asked Questions about the Libra News and Talks proje
 
 What is the main subject of focus other than The Libra Blockchain?
 
-*Answer......*
+*Other than the Libra Blockchain, LNATS decentralised social new platformn is focused on providing insights, to the growth and potential of the use of Central Bank Digital Currencies and Stable Crypto Token projects. By means of servicing the need for information towards the applicability of digital assets to the tradtional fiat economy, and how they can play a role in the future of the financial industry.*
 
 Are you going to focus on general Cryptocurrencies aswell as the 3 pre-stated assets from economic perspective?
 
-*Answer......*
+*Yes, the general aspects of Libra News And Talks is to be able to provide insights into the movement of Decentralised Finance, by supporting the cryptocurrency industry as a whole but specifically, we will be focused mainly on the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens.*
 
 What do you see being the most valuable part of the current market you are going to be able to target as a online news and publication service?
 
-*Answer.....*
+*As a news service provider, the most vaulable part of the financial market for Libra News And Talks is going to be how economies, and business operations are able to benefit from the use of digital assets and blockchain technology. This means that the profitability of the project will come from the information derived from research and analysis of the markets behaviour and the global spectrum of the Decentralised Finance movement.*
 
 Focusing on the global economy as a whole allows the platform to cover a wide range of different topics, how do you plan to manage the workload?
 
-*Answer......*
+*With a multiple range of topics to cover other than Libra, Central Bank Digital Currencies and Stable Crypto Tokens. We anticipate that the workload being placed upon the LNATS decentralised social news platform is going to be managed through the platforms research commission. Which is specifically aimed at breaking down our 3 main points of focus into sub-sections and sub-points, to develop and build a diverse informative set of publications, manifests and online profiles for users to engage with to educate and inform themselves upon the chosen points of interest.* 
 
 How are you going to distribute publications, manifests and market reports?
 
-*Answer.....*
-
-Other than weekly updates and transcripts (from the webinar sessions) each project has taken its own direction in terms of their own campaign. The alumni associates along with BitFwd professionals are a group of working entrepreneurs subject blockchain technology and cryptocurrencies.
+*To distribute and publicize the platforms information, Libra News And Talks is going to use social media profiles, online publications, e-mails and pre-written documnents that will be uploaded to the LNATS website, along with messaging channels and forums to further enhance the conversation being generated around our market reports, manifests and documentations. Using these multiple choice senarios for users to retrive information from, allows LNATS to distribute our documentations accordingly to the users preferences.*
 
 ## Webinar Conference Transcript (LNATS).
 
