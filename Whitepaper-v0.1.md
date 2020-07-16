@@ -98,7 +98,7 @@ Beacuse the focus the LNATS decentralised social news service platform is specif
 
 ## 4: Operational Planning.
 
-Needs to include a roadmap, timeline, and the dynamics of how to work an efficient execution model the proposed business, goals and objectives....
+Needs to include a roadmap, timeline, and the dynamics of how to work an efficient execution model for the proposed business, goals and objectives....
 
 This part of the Libra News And Talks whitepaper v0.1 documentation is allocated to specifically to define the stages development of the platforms opertations. By means of building a decentralised social news service, the platform must be able to offer multiple services that inform and substitute the knowledge of its general user base. This is going to be acheived by developing the functional key features written below to ensure that suffcient information is provided to all of the platforms users. 
 
