@@ -18,7 +18,7 @@
 
 ## 1: Introduction.
 
-The projects initiative is to provide news updates, educational resources and market analysis on Facebook’s Libra project, Stable Crypto Tokens and Central Bank Digital Currencies from around the world, along with governmental, economic and regualtory concerns around the whole spectrum of the 3 main points of focus.
+The projects initiative is to provide news updates, educational resources and market analysis on Facebook’s Libra project, Stable Crypto Tokens and Central Bank Digital Currencies from around the world, along with governmental, economic and regualtory concerns around the whole spectrum of the 3 main subjects of focus.
 
 Libra News And Talks is an online service that provides the latest news and updates on Facebook’s cryptocurrency project 'Libra', Central Bank Digital Currencies and Stable Crypto Tokens, along with everything else in-between that is for or against the legitimacy of decentralised and digitalised finance or fintech.
 
