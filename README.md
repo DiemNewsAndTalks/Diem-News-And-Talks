@@ -30,7 +30,7 @@ Focusing on the potential of 3 main key points of interest such as the Libra Blo
 
 - Subjected matters of importance towards the development of the Libra Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens. 
 
-- Comprehensive analysts of blockchain techonology and the current most viable products within the Decentralised Finance economny and fiat system. 
+- Comprehensive analysts of blockchain techonology and the current most viable products within the Decentralised Finance economny and tradtional Central Banking system. 
 
 - Enhanced focus into the changes of the global economy by means of finance, techonology, economics and natural disaters. 
 
