@@ -28,7 +28,7 @@ As a Blockchain networks are natively censorship resistant, they offer the oppor
 
 Diem News And Talks will be specifically aimed at, providing it’s local and online community with the latest and best possible overview of the current decentralised finance markets. Along with real time updates on regulations, service providers and project developments from organisations and governments around the world (Relative to The Diem Blockchain, Central Bank Digital Currencies and Stable Crypto Tokens). Bringing to the table, a new form of decentralised online publication and digital journalism platform that is to be integrated with blockchain techonology and crypto tokens, along with multimedia content and keynote presentations, which are specifically designed to suit the industry standards of traditional and modern financial technology.
 
-As a project that will be offering online services to its community and users. Diem News and Talks will aim to be become a key player in the future of decentralised finance and online digital journalism. Focusing specifically on Facebook’s Libra project, Central Bank Digital Currencies and Stable Crypto Token initiatives such as MakerDAO, Tether and Binance USD along with a huge list of over 200 other crypto token projects. 
+As a project that will be offering online services to its community and users. Diem News and Talks will aim to be become a key player in the future of decentralised finance and online digital journalism. Focusing specifically on Facebook’s Diem project, Central Bank Digital Currencies and Stable Crypto Token initiatives such as MakerDAO, Tether and Binance USD along with a huge list of over 200 other crypto token projects. 
 
 The project will look to become a part of the crypto market, by offering news updates, technical support and fundamental analysis of public Blockchains, Diem, Central Bank Digital Currencies and Stable Crypto Tokens. Along with newsletters and market alerts, to bring forward a new era in financial reviews and technical information, targeted at the decentralised, open and tradtional financial industry. 
 
@@ -40,9 +40,9 @@ Diem News and Talks opertaions have been active since September 2019 with the fo
 
 2: @LNATS002 (https://twitter.com/LNATS2020)
 
-3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra)
+3: @DiemNewsTalks (https://twitter.com/DiemNewsTalks)
 
-4: @LNATS203 (https://mobile.twitter.com/LNATS203)
+4: @NewsAndTalks (https://twitter.com/NewsAndTalks)
 
 (The accounts linked above are subject to change and should not in anyway be considered a final product or service from Libra News and Talks.)
 
@@ -143,11 +143,11 @@ To get an abtract view of how the project is planning to drive the value of it's
 
 2: @LNATS002 (https://twitter.com/LNATS2020)
 
-3: @NewsnTalksLibra (https://twitter.com/NewsnTalksLibra)
+3: @DiemNewsTalks (https://twitter.com/DiemNewsTalks)
 
-4: @LNATS203 (https://mobile.twitter.com/LNATS203)
+4: @NewsAndTalks (https://twitter.com/NewsAndTalks)
 
-5: The offical Libra website (https://libra.org/en-US/)
+5: The offical Diem Blockchain website (https://www.diem.com/en-us/)
 
 6: Definition of Central Bank Digital Currencies (https://en.wikipedia.org/wiki/Central_bank_digital_currency)
 
