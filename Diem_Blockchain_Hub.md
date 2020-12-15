@@ -27,3 +27,18 @@ A resoucres file for all things related to interacting with Diem Blockchain spec
 *6: Diem Clients*
 
 ###### An overview of Diem clients.
+
+
+###### *Transactions*
+
+*7: Transaction Types*
+
+###### Overview of creation/minting administration and payments.
+
+*8: Life of a transaction*
+
+###### Follow a transactions from submission to being committed to the Diem Blockchain.
+
+*9: My first transaction* 
+
+###### Create and execute your first Diem transaction.
