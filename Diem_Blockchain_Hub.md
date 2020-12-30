@@ -8,6 +8,17 @@ A resoucres file for all things related to interacting with Diem Blockchain spec
 
 ###### Key concepts of the Diem Blockchain.
 
+* Diem is a blockchain based on distributed ledger technology using the two-tierd approach for designing the transfer of computation across the network of participants.
+
+* Using full nodes and validators sets to authenticate the networks latent execution of valued information between nodes, the have chosen to take a BFT approach to maintaining
+consensus between the two sets of authoritze particicpants in the blockchains system. Meaning that 2/3rds of nodes will always have a verified state of the networks whole ledger whos storage holds the most recent state of the Diem blockchain.
+
+* Accounts are able to carry multiple peices of data when stored on the ledgers state. 
+
+* The validators of the network provide API calls from the corresponding connections of full nodes that are operating the party members of Diem's network.
+
+* The transfer of Diem tokens is first validated from a memory pool of pending transactions which validator nodes choose to add as new executed arbitary function calls and state changes to the Diem ledger.
+
 *2: Diem nodes*
 
 ###### Introduction to validator and full nodes.
