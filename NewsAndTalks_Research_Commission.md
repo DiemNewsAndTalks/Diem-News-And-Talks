@@ -6,15 +6,16 @@ issuance and consumption of economic activity driven from the exchange provided 
 ###### Monetary Value.
 
 ###### Government Spending.
-Automation, digital health.
+* Automation 
+* digital health.
 
 ###### Government Lending.
 
 ###### Social Monetary Policies and Prodecures.
-Experimental events.
+* Experimental events.
 
 ###### Public Infastructure Operations Costs.
-Connectivity.
+* Connectivity.
 
 ###### Inter-Bank Lending.
 
