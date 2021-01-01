@@ -8,7 +8,7 @@ issuance and consumption of economic activity driven from the exchange provided 
 
 ###### Government Spending.
 * Automation 
-* digital health.
+* Digital health.
 
 ###### Government Lending.
 
