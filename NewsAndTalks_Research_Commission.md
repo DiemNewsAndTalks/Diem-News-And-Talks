@@ -26,6 +26,8 @@ issuance and consumption of economic activity driven from the exchange provided 
 
 
 ### Sustainable/Green Finanace
+###### Reports
+
 ###### Surveys
 * https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020
 
@@ -34,3 +36,8 @@ issuance and consumption of economic activity driven from the exchange provided 
 
 
 ### Digital Finance
+
+###### CBDC 
+* https://www.bis.org/publ/othp33.htm
+
+###### Fin-tech
