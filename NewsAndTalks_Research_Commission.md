@@ -40,4 +40,5 @@ issuance and consumption of economic activity driven from the exchange provided 
 ###### CBDC 
 * https://www.bis.org/publ/othp33.htm
 
+###### Cyber Security
 ###### Fin-tech
