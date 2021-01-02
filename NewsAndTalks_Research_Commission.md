@@ -29,18 +29,18 @@ issuance and consumption of economic activity driven from the exchange provided 
 ###### Reports
 
 ###### Surveys
-* https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020
+* https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020 - 01/01/2021
 
 ###### Whitepapers
 
 ###### Working documents
-* https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper
+* https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper - 02/01/2021
 
 
 ### Digital Finance
 
 ###### CBDC 
-* https://www.bis.org/publ/othp33.htm
+* https://www.bis.org/publ/othp33.htm - 01/01/2021
 
 ###### Cyber Security
 ###### Fin-tech
