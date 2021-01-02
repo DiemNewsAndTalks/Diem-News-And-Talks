@@ -32,7 +32,9 @@ issuance and consumption of economic activity driven from the exchange provided 
 * https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020
 
 ###### Whitepapers
+
 ###### Working documents
+* https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper
 
 
 ### Digital Finance
