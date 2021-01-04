@@ -43,4 +43,5 @@ issuance and consumption of economic activity driven from the exchange provided 
 * https://www.bis.org/publ/othp33.htm
 
 ###### Cyber Security
+* https://builtin.com/blockchain/blockchain-cybersecurity-uses
 ###### Fin-tech
