@@ -9,8 +9,6 @@ issuance and consumption of economic activity driven from the exchange provided 
 ###### Government Spending.
 * Automation 
 
-![Alt text](relative/Users/Connor/Downloads/img.jpg?raw=true "SVGZ-The-transformative-power-of-automation-Ex1.svgz")
-
 * Digital health.
 
 ###### Government Lending.
