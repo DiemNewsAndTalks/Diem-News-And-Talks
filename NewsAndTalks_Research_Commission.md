@@ -8,6 +8,7 @@ issuance and consumption of economic activity driven from the exchange provided 
 
 ###### Government Spending.
 * Automation 
+1) https://www.mckinsey.com/industries/financial-services/our-insights/the-transformative-power-of-automation-in-banking#
 
 * Digital health.
 
