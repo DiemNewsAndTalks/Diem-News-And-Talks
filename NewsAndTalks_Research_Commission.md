@@ -29,6 +29,18 @@ By focusing on one area and creating a detailed roadmap, banks can avoid paralys
 
 6) **Carefully choose the first pilot area.** The first business or function chosen for an automation pilot will be crucial, as it—and its leaders—will ideally become the initial change champion for the entire automation effort. While the size of the opportunity and the ease of implementation are important, having the right leaders as sponsors for the initiative is critical to success. When selecting the first pilot area banks should consider the energy level and commitment of the business’s leader, the level of respect she commands in the organization, and other initiatives the business has in progress that may help or hinder the work. Most banks also choose to start in a middle- or back-office area to avoid customer-facing processes and riskier areas during trials. Initial areas of focus in finance would include accounts payable, reconciliations, template processes, and reporting (exhibit).
 
+Automation at scale refers to the employment of an emerging set of technologies that combines fundamental process redesign with robotic process automation (RPA) and machine learning. Automation at scale encompasses the following five core technologies.
+
+1) RPA allows companies to configure computer software to automate routine tasks such as data extraction and cleaning through existing user interfaces, mimicking human actions.
+
+2) Smart workflow is a process-management software tool that merges tasks performed by groups of humans and machines to integrate robots into the daily flow of work.
+
+3) Machine learning and advanced analytics software use algorithms to identify patterns in structured and unstructured data. These technologies mimic human judgment.
+
+4) Natural-language generation is accomplished by software engines that create seamless interactions between humans and technology, translating observations from data into prose. These technologies mimic human speech.
+
+5) Cognitive agents are created by combining machine learning and natural-language generation to build virtual workers (or “agents”) capable of executing tasks, communicating, learning from data sets and making decisions based on logic, experiential learning and, in some cases, the detection of customer emotions.
+
 * Digital health.
 
 ###### Government Lending.
