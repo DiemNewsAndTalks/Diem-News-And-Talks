@@ -61,6 +61,7 @@ Automation at scale refers to the employment of an emerging set of technologies 
 ### Sustainable/Green Finanace
 ###### Reports
 * https://www.bis.org/publ/othp31.pdf
+* https://www.greenfinanceinstitute.co.uk/financing-zero-carbon-heat-turning-up-the-dial-on-investment/
 
 ###### Surveys
 * https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020
