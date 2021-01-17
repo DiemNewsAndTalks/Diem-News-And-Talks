@@ -76,6 +76,7 @@ Automation at scale refers to the employment of an emerging set of technologies 
 
 ###### CBDC 
 * https://www.bis.org/publ/othp33.htm
+* https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2351~c8c18bbd60.en.pdf
 
 ###### Cyber Security
 * https://builtin.com/blockchain/blockchain-cybersecurity-uses
