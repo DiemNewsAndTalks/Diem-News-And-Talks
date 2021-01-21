@@ -70,6 +70,7 @@ Automation at scale refers to the employment of an emerging set of technologies 
 
 ###### Working documents
 * https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper
+* https://www.researchgate.net/publication/323764756_A_Framework_for_Sustainable_Finance
 
 
 ### Digital Finance
