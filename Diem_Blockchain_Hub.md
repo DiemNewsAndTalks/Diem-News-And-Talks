@@ -23,6 +23,28 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 ###### Introduction to validator and full nodes.
 
+* A Diem node is a peer entity of the Diem ecosystem that tracks the state of the Diem Blockchain. Clients interact with the blockchain via Diem nodes. 
+
+* There are two types of nodes:
+
+  Validator Nodes (Validators) FullNodes
+
+* Each Diem node comprises several logical components:
+
+  JSON-RPC service
+
+  Mempool
+
+  Storage
+
+  Consensus (only validators)
+
+  Execution
+
+  State synchronizer
+
+  Virtual machine
+
 *3: Accounts*
 
 ###### Introduction to account creation, keys, addresses and currencies.
