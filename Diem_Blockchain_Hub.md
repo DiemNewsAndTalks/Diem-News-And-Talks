@@ -4,7 +4,7 @@ A resoucres file for all things related to interacting with Diem Blockchain spec
 
 ## Contents
 
-*1: Protocol overview*
+#### *1: Protocol overview*
 
 ###### Key concepts of the Diem Blockchain.
 
@@ -19,7 +19,7 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 * The transfer of Diem tokens is first validated from a memory pool of pending transactions which validator nodes choose to add as new executed arbitary function calls and state changes to the Diem ledger.
 
-*2: Diem nodes*
+#### *2: Diem nodes*
 
 ###### Introduction to validator and full nodes.
 
