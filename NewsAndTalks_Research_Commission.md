@@ -75,7 +75,10 @@ The HSBC survey from 2020 is self explanatory as the disscuss of the paper is re
 ###### Whitepapers
 
 ###### Working documents
+
+As climate change becomes a greater responsability of the Banks key policies of maintaining financial stability and protecting the value of the underlying currency which is supporting the economy. Being able to understand the key concepts of how climate change can effect the enviroment around us becomes a ever more viable subject to have for conversation because of the prospects that are carried from understanding how change will potentially damage the economy, monetary value and business activity. The Bank of England has released a paper to help business owners, entrepreneurs and themselves help understand the senarios that would be faced by them in the face a climate emergency, what type of fiscal repsonse and monetary protection would be needed in times of crisis, how would the economy cope with the effects of a major catastrophic event caused by the climate, how can the Banks help protect from the potential of a green swan events that occur at random, what kind of economic damage would this do to the governments and Banks.
 * https://www.bankofengland.co.uk/paper/2019/biennial-exploratory-scenario-climate-change-discussion-paper
+
 * https://www.researchgate.net/publication/323764756_A_Framework_for_Sustainable_Finance
 
 
