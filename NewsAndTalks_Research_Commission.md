@@ -68,6 +68,8 @@ A report by the Green Finance Institute’s Coalition for the Energy Efficiency 
 * https://www.greenfinanceinstitute.co.uk/financing-zero-carbon-heat-turning-up-the-dial-on-investment/
 
 ###### Surveys
+
+The HSBC survey from 2020 is self explanatory as the disscuss of the paper is resident to the Banks procedures of investing in sustainable finance over the last year. As the trend has been growing for over 2-3 years now in investors portfolios the management of business activity and assets related to sustainable finance that carry the benefits for agendas relating the definitive outcome of being a reliable investment for the Banks, climate and enviroment. Now are being introduced into the portfolio of many international and domestic institutions, over the last year the percentage increase of investment criteria that mandates sustainability as a key subject has grown over 20% as climate change and responsability for enviromental impact has become more of a mandatory requirement for investors. The paper outlines the key demographics who given and raised capital over the last year with matters relating to sustainable finance and the development of sustainable markets for the forth coming decade. 
 * https://www.sustainablefinance.hsbc.com/mobilising-finance/sustainable-financing-and-investment-survey-2020
 
 ###### Whitepapers
