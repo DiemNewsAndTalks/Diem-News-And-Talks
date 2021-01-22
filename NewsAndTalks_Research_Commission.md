@@ -60,7 +60,10 @@ Automation at scale refers to the employment of an emerging set of technologies 
 
 ### Sustainable/Green Finanace
 ###### Reports
+
+Green swan events cause major catastrophic events throughout the world. Climate change and the enviroments ability to become damaged or even harmful to the Banking system creates a due dilligence request from the policymakers. The othp31.pdf paper outlines the guidance to understanding how the Bank's are looking at green swan events and how to manage the possible effects created from such an occurance. Begininng with how to maintain financial stability and tender for the Bank's welfare during times of crisis the BIS have provided a paper that helps understand the landscape of sustainable finance and the Bank's mobility with prospects related to helping the climate acheive the goals set under the paris agreement (2015). The release shows how mainstream international institutions are looking to finance the world during the next 10 years as SDGs and other prerequisites playforth the facist movements being undertaken from the Banks to help fight climate change and protect against green swan events.
 * https://www.bis.org/publ/othp31.pdf
+
 * https://www.greenfinanceinstitute.co.uk/financing-zero-carbon-heat-turning-up-the-dial-on-investment/
 
 ###### Surveys
