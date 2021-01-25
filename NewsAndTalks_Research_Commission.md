@@ -90,6 +90,7 @@ This framework for sustainable finance is a good overview of the apsects of how 
 * https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2351~c8c18bbd60.en.pdf
 
 #####  Project Helvetia 
+After inital activation of the pilot test for the SNB project, the outcome for conversation around project Helvetia is disscussed under the regime of 2 PoCs which are both issuing tokenized assets using distributed ledger techonology. Controlling the transmission of brokerage between a Central institution and it's subsidising retail outlets and exchanges the execution of wholesale CBDC is performed by interacting with decentralised applications built on a r3 corda's private network. Understanding the 2 PoCs requires that the reader can differentiate between already exsisting systems like the RTGS and a DLT which interacts with both the broker and buyer of wholesale CBDC. Plus with the creation of the SDX (Swiss digital exchange) tokenized assets are able to be exchanged between participants once sold over the Banks network. Both instances of the pilot project have policy implications and development requirements that are needed to maintain security in the Banks infastructure.
 * https://www.bis.org/publ/othp35.htm
 
 ###### Cyber Security
