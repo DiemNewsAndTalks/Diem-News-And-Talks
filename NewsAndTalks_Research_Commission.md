@@ -97,3 +97,4 @@ After inital activation of the pilot test for the SNB project, the outcome for c
 * https://builtin.com/blockchain/blockchain-cybersecurity-uses
 ###### Fin-tech
 * https://www.r3.com/factsheets/about-r3/
+* https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf
