@@ -97,4 +97,6 @@ After inital activation of the pilot test for the SNB project, the outcome for c
 * https://builtin.com/blockchain/blockchain-cybersecurity-uses
 ###### Fin-tech
 * https://www.r3.com/factsheets/about-r3/
+
+Detailing the relevant information on the creation of the R3 corda blockchain. The whitepaper defines the sections which breakdown the bulk of the blockchain to understand how corda's solution compares to already exsisiting blockchains. Looking at how the functions are pre determined and the general state of the ledger is compiled being able to understand consensus and the formation of working prospectus to the finalised product is proceeded to have a set of users and an overall general state. Made up of components the systems approach defines that input and ouput are determined by the ledgers state and the amount of velocity being consumed by the actors of the network. Being able to maintain a state solution for Banking requirements the private blockchain allows for contract code to be deployed onto the network.
 * https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf
