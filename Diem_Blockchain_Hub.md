@@ -89,6 +89,8 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 ###### Introduction to account creation, keys, addresses and currencies.
 
+* Accounts on the Diem blockchain are 16 bytes and come with 2 resources. RoleId and Account, the role id is the data which grants access of control to the corresponding key and the account is made up from the events handles, authorization key (private key) and the sequence number for the public key. Accounts are created on the DPN (Diem payments network) and are supportive of the designated dealer accounts and regulted virutal asset service providers (VASPS). 
+
 *4: Gas*
 
 ###### Learn how the Diem payment network uses gas to charge a transaction fee.
