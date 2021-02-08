@@ -27,23 +27,25 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 * There are two types of nodes:
 
-  Validator Nodes (Validators) FullNodes
+  1. Validator Nodes (Validators)
+  
+  2. FullNodes
 
 * Each Diem node comprises several logical components:
 
-  JSON-RPC service
+  1. JSON-RPC service
 
-  Mempool
+  2. Mempool
 
-  Storage
+  3. Storage
 
-  Consensus (only validators)
+  4. Consensus (only validators)
 
-  Execution
+  5. Execution
 
-  State synchronizer
+  6. State synchronizer
 
-  Virtual machine
+  7. Virtual machine
   
   ##### Validator Nodes (validators)
   
@@ -51,37 +53,37 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 * A validator node is characterized by the following:
 
-  It participates in consensus.
+  1. It participates in consensus.
   
-  The JSON-RPC Service component is disabled.
+  2. The JSON-RPC Service component is disabled.
   
-  It communicates directly with other validators over a hidden network.
+  3. It communicates directly with other validators over a hidden network.
   
-  It may be configured to store either all the historical data or part of the historical data from the Diem Blockchain.
+  4. It may be configured to store either all the historical data or part of the historical data from the Diem Blockchain.
   
-  It uses its State Synchronizer component to “catch up” to the latest state of the blockchain.
+  5. It uses its State Synchronizer component to “catch up” to the latest state of the blockchain.
   
   ##### Public FullNodes
 
 * A public FullNode is characterized by the following:
 
-  It uses the same software as the validator.
+  1. It uses the same software as the validator.
   
-  Consensus is disabled.
+  2. Consensus is disabled.
   
-  It connects directly to one or more validators to submit transactions and synchronize to the state of the Diem Blockchain.
+  3. It connects directly to one or more validators to submit transactions and synchronize to the state of the Diem Blockchain.
   
 * Third-party blockchain explorers, wallets, exchanges, and DApps may run a local FullNode to:
 
-  Leverage the JSON-RPC protocol for richer blockchain interactions.
+  1. Leverage the JSON-RPC protocol for richer blockchain interactions.
   
-  Get a consistent view of the Diem Payment Network.
+  2. Get a consistent view of the Diem Payment Network.
   
-  Avoid rate limitations on read traffic.
+  3. Avoid rate limitations on read traffic.
   
-  Run custom analytics on historical data.
+  4. Run custom analytics on historical data.
   
-  Get notifications about particular on-chain events.
+  5. Get notifications about particular on-chain events.
 
 *3: Accounts*
 
