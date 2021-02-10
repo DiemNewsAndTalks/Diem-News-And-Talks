@@ -53,25 +53,25 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 * A validator node is characterized by the following:
 
-  1. It participates in consensus.
+  1. It participates in consensus. - Allowing each validator node on the network to be able to participate in the consensus activities which in return drives the valiation of the networks state. Each node runs the consensus algorithm that is proposed by the Diem protocol and acts a single entity in the process of validating the network.
   
-  2. The JSON-RPC Service component is disabled.
+  2. The JSON-RPC Service component is disabled. - Validator nodes only work the network to validate the transaction input to the ledger. RPC calls can only come from full nodes because of the interaction with client services which only needs to check the state of the ledger and not change any data that is stored on the Diem blockchain.
   
-  3. It communicates directly with other validators over a hidden network.
+  3. It communicates directly with other validators over a hidden network. - The validators network is a private group of permissioned nodes that operate as governors of the ledger maintaining the legitmacy of transactions that are being added to the blockchain.
   
   4. It may be configured to store either all the historical data or part of the historical data from the Diem Blockchain.
   
-  5. It uses its State Synchronizer component to “catch up” to the latest state of the blockchain.
+  5. It uses its State Synchronizer component to “catch up” to the latest state of the blockchain. - If a validator node is turned off for a while, the state synchronizer will act as a recall component to allow the node to sync up to date with the othe participants on the network. 
   
   ##### Public FullNodes
 
 * A public FullNode is characterized by the following:
 
-  1. It uses the same software as the validator.
+  1. It uses the same software as the validator. - Every node that operates aa a sole part of the Diem blockchain's network has to run the Diem software.
   
-  2. Consensus is disabled.
-  
-  3. It connects directly to one or more validators to submit transactions and synchronize to the state of the Diem Blockchain.
+  2. Consensus is disabled. - Only validator nodes run the consensus component to participate in validating the networks state.
+ 
+  3. It connects directly to one or more validators to submit transactions and synchronize to the state of the Diem Blockchain. - Each node on the network connects to a certain validator usually the closest or most efficent option. When a transaction is sent to mempool from a servicing node the transaction is synchronized on the network before it is mined to the blockchain allowing the validators to authenticate the output of the transaction before updating the state of the ledger.
   
 * Third-party blockchain explorers, wallets, exchanges, and DApps may run a local FullNode to:
 
