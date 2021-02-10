@@ -39,9 +39,9 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
   3. Storage - Every node has a store component, this storage component allows each node to validate the prerequisite information to validate the networks state.
 
-  4. Consensus (only validators) 
+  4. Consensus (only validators) - This is the BFT algorthim which will require the validator node to run computation that allows them to accumalate transactions and pack them into blocks to add to the ledger, each validator plays a part in keeping the network secure and compliant with protocol specs.
 
-  5. Execution 
+  5. Execution - ??
 
   6. State synchronizer - Allows each node on the network to update thier instance of the ledger each time there is a interaction with the node. This may be when the node is turned online, the node is disconnected from the network, when there is updates incoming from validator nodes.
 
@@ -59,7 +59,7 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
   
   3. It communicates directly with other validators over a hidden network. - The validators network is a private group of permissioned nodes that operate as governors of the ledger maintaining the legitmacy of transactions that are being added to the blockchain.
   
-  4. It may be configured to store either all the historical data or part of the historical data from the Diem Blockchain.
+  4. It may be configured to store either all the historical data or part of the historical data from the Diem Blockchain. - This is due to the set-up by which the validator chooses to pre-configure the settings of thier node which will carry either the whole ledger or just individual sections.
   
   5. It uses its State Synchronizer component to “catch up” to the latest state of the blockchain. - If a validator node is turned off for a while, the state synchronizer will act as a recall component to allow the node to sync up to date with the othe participants on the network. 
   
