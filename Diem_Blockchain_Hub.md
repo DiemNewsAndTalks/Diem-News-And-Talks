@@ -27,25 +27,25 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 * There are two types of nodes:
 
-  1. Validator Nodes (Validators)
+  1. Validator Nodes (Validators) - Validator nodes collect transactions and bunch them together then add to the Diem ledgers state altering the last known instance to a more recent update that has allowed new transactions to pass through the network. The validator nodes essentially operate the network to validate a new state of the ledger each time an update is added from a chosen validator. Updates are given 'per block' and are usually around 2mb of data each new term. Validators run the Diem software with consensus enabled to run the BFT algorithm and compete with other nodes on the network in a asynchronous fashion to be able to update the ledgers state. 
   
-  2. FullNodes
+  2. FullNodes - Full nodes are the body of the network in the Diem world. Connected to eachother, each full node stores a complete state of the entire ledger which is made up of accounts, transactions, scripts and general computing components. Operating as a whole network in unison the behaviour of full nodes requires that they talk to each other and distribute data accordingly to the updates that are being made from the validators. The networks bandwidth is not determined from the full nodes rather the validators ability to  be able to add new abritary sets of data to the ledger. After each new instance that gets added to the ledger, the full nodes that are connected to the validators will pick up the new data and sync themselves accordingly with the new data and then distribute amoung the nearest other participants to update the whole networks state. Full nodes allow for service providers and hosted applications to run a instance of the Diem blockchain, giving the networks users a more efficient and effective interaction with the ledger while allowing them to become a part of maintaining the legitimacy of the network.
 
 * Each Diem node comprises several logical components:
 
-  1. JSON-RPC service
+  1. JSON-RPC service - As logic is passed to and from the nodes on the network to other operating clients, the JSON RPC fundamentally allows for the connections between the ledger and the consumers to be able authorized and legitimate. Giving each full node on the network a way to ineract with another, the procedures of the Diem protocol are followed from the rules defined by the RPC and Diem codebase. 
 
-  2. Mempool
+  2. Mempool - The mempool is a list of transactions that have not be added to the ledger. As one wallet sends a transaction, the data that is sent to the network is added to the mempool where it waits to be collected from a validator node. Each transaction that is sent to the mempool has a gas percentage or fee that is sent with the inital value being transacted. The gas percentage or fee determines how long a transaction will be stored in the mempool, transactions with a higher fee will be processed quicker from the validator nodes as the price of execution is more compared to a transaction with a low gas fee. Validator nodes use the mempool to add transactions to the ledger and update the networks state (transactions can not be added to ledger without passing through the mempool).  
 
-  3. Storage
+  3. Storage - Every node has a store component, this storage component allows each node to validate the prerequisite information to validate the networks state.
 
-  4. Consensus (only validators)
+  4. Consensus (only validators) 
 
-  5. Execution
+  5. Execution 
 
-  6. State synchronizer
+  6. State synchronizer - Allows each node on the network to update thier instance of the ledger each time there is a interaction with the node. This may be when the node is turned online, the node is disconnected from the network, when there is updates incoming from validator nodes.
 
-  7. Virtual machine
+  7. Virtual machine - The virtual machine allows nodes to run computation and execute the functions of applications that are deployed on the blockchain. Each node has a virutal machine to allow computation to flow though the network. 
   
   ##### Validator Nodes (validators)
   
