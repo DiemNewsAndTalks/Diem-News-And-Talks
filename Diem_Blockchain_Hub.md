@@ -95,9 +95,30 @@ consensus between the two sets of authoritze particicpants in the blockchains sy
 
 ###### Learn how the Diem payment network uses gas to charge a transaction fee.
 
+* Gas is used to authorize the computation of protocol opcodes which determine the outcome of a specific application's functions. 
+
+* The price of gas is deterministic on the payment networks ability to allocate resources towards executing a transaction.
+
+* Each transaction that is sent to the network is ordered in terminal pricing of gas fees set by the on-chain ratio of token price to Diem coin.
+
+* Gas can be payed for in multiple currencies. 
+
+* The price of gas protects the networks stability and offers an incentive to keep honest actors interacting with the blockchain.
+
 *5: Events*
 
 ###### Event types and how to query them.
+
+* Every account has the ability to store 2 types of events, payment_sent and payment_recieved.
+
+* Events are stored on the Diem blockchain in the event store which is a core part of the protocols infastructure.
+
+* Both sent_payment and receive_payment return the same amount of data when queried from the blockchain.
+
+* Events are sequenced in every account and smart contract.
+
+* The event store is made up of individual event streams.
+
 
 *6: Diem Clients*
 
